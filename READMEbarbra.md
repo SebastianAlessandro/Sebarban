@@ -1,3 +1,0 @@
-%Readme
-
-Ciao barbra! 
